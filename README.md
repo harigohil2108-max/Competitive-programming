@@ -26,8 +26,17 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

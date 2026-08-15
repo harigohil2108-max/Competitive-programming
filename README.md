@@ -22,4 +22,12 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

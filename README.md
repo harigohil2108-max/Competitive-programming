@@ -26,6 +26,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ Author- Hari Gohil
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -44,4 +46,16 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

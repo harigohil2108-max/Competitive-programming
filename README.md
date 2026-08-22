@@ -32,6 +32,7 @@ Author- Hari Gohil
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -52,10 +53,12 @@ Author- Hari Gohil
 | ------- |
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -73,4 +76,16 @@ Author- Hari Gohil
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

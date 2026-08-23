@@ -9,6 +9,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0020-valid-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -54,11 +55,13 @@ Author- Hari Gohil
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |
 | ------- |
@@ -84,8 +87,17 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

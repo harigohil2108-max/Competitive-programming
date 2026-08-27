@@ -30,6 +30,7 @@ Author- Hari Gohil
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -38,6 +39,7 @@ Author- Hari Gohil
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |

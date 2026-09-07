@@ -36,6 +36,7 @@ Author- Hari Gohil
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -83,6 +84,7 @@ Author- Hari Gohil
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,4 +110,9 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

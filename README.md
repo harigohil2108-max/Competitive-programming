@@ -8,6 +8,7 @@ Author- Hari Gohil
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
@@ -55,6 +56,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
@@ -102,4 +104,8 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ Author- Hari Gohil
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@ Author- Hari Gohil
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer

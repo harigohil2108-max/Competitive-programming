@@ -88,6 +88,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
@@ -124,4 +125,12 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

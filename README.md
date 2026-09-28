@@ -38,6 +38,7 @@ Author- Hari Gohil
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
@@ -64,6 +65,7 @@ Author- Hari Gohil
 | [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -71,6 +73,7 @@ Author- Hari Gohil
 | ------- |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |

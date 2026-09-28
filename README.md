@@ -10,6 +10,7 @@ Author- Hari Gohil
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -66,6 +67,7 @@ Author- Hari Gohil
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -74,6 +76,7 @@ Author- Hari Gohil
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |

@@ -42,6 +42,7 @@ Author- Hari Gohil
 | [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
@@ -71,6 +72,7 @@ Author- Hari Gohil
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -81,6 +83,7 @@ Author- Hari Gohil
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Quicksort
 |  |
@@ -108,10 +111,12 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -120,10 +125,12 @@ Author- Hari Gohil
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -143,4 +150,8 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0069-sqrtx) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

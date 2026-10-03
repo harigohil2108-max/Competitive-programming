@@ -32,6 +32,7 @@ Author- Hari Gohil
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -68,6 +69,7 @@ Author- Hari Gohil
 | ------- |
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
@@ -156,4 +158,8 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

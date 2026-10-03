@@ -31,6 +31,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0036-valid-sudoku) |
@@ -59,6 +60,7 @@ Author- Hari Gohil
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0125-valid-palindrome) |
@@ -85,6 +87,7 @@ Author- Hari Gohil
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |

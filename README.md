@@ -42,6 +42,7 @@ Author- Hari Gohil
 | [0128-longest-consecutive-sequence](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ Author- Hari Gohil
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -110,6 +112,7 @@ Author- Hari Gohil
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer

@@ -18,6 +18,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -35,6 +36,7 @@ Author- Hari Gohil
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -55,6 +57,7 @@ Author- Hari Gohil
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -62,6 +65,7 @@ Author- Hari Gohil
 | ------- |
 | [0015-3sum](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -170,4 +174,8 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

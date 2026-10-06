@@ -13,6 +13,7 @@ Author- Hari Gohil
 | [0049-group-anagrams](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@ Author- Hari Gohil
 | [0217-contains-duplicate](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 ## Sorting
@@ -153,6 +155,7 @@ Author- Hari Gohil
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum

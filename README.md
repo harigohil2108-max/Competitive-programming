@@ -15,6 +15,7 @@ Author- Hari Gohil
 | [0242-valid-anagram](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Author- Hari Gohil
 | [0075-sort-colors](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harigohil2108-max/Competitive-programming/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -91,6 +93,7 @@ Author- Hari Gohil
 | [0347-top-k-frequent-elements](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -156,6 +159,7 @@ Author- Hari Gohil
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum

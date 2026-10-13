@@ -16,16 +16,19 @@ Author- Hari Gohil
 | [0424-longest-repeating-character-replacement](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0567-permutation-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0155-min-stack) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harigohil2108-max/Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
